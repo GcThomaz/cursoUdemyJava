@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.tiposPrimitivos;
 
 import javax.swing.JOptionPane;
 
@@ -29,12 +29,13 @@ public class conversaoTiposPrimitivos {
         //CONVERSAO DE NUMERO PARA STRING
 
         Integer num1 = 10000;
-        System.out.println(num1.toString(num1));/*Utilizando o wrapper eu consigo atribuir componentes
+        //System.out.println(num1.toString(num1));
+        /*Utilizando o wrapper eu consigo atribuir componentes
         aos numeros utilizando a notacao ponto. Nesse exemplo o numero inteiro 10000 foi convertido para
         "10000" so que em forma de string. Agora que o numero virou uma string eu consigo utilizar a
         notacao ponto para atribuir componentes a minha string. Exemplo: .lenght(), vai me gerar a quantidade
         de caracteres da minha string "10000", ou seja, 5 caracteres.*/
-        System.out.println(num1.toString(num1).length());
+        System.out.println(num1.toString().length());
 
         Integer num2 = 100000;
         System.out.println(Integer.toString(num2));/*Nesse examplo ao inves de transformar o meu resultado
