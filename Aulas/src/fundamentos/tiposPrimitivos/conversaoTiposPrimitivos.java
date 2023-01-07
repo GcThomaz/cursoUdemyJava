@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.tiposPrimitivos;
 
 import javax.swing.JOptionPane;
 
