@@ -18,7 +18,6 @@ public class desafioLogico {
         Boolean trabalho2 = Boolean.parseBoolean(entrada.next());        
         entrada.close();
 */
-
         //RESPOSTA
         
 //OPERADORES BINARIOS
