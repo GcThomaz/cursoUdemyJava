@@ -1,6 +1,6 @@
 package fundamentos.operadores;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class desafioLogico {
     public static void main(String[] args) {
