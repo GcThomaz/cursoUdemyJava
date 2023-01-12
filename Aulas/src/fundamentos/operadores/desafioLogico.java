@@ -1,6 +1,6 @@
 package fundamentos.operadores;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class desafioLogico {
     public static void main(String[] args) {
@@ -18,7 +18,6 @@ public class desafioLogico {
         Boolean trabalho2 = Boolean.parseBoolean(entrada.next());        
         entrada.close();
 */
-
         //RESPOSTA
         
 //OPERADORES BINARIOS
