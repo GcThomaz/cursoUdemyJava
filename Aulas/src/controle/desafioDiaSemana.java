@@ -35,7 +35,7 @@ public class desafioDiaSemana {
         }
         entrada.close();*/
 
-        //RESPOSTA 01 DO PROFESSOR
+        //RESPOSTA 01 DO PROFESSOR || ANSWER 01
 
         /*Scanner entrada = new Scanner(System.in);
 
@@ -62,7 +62,7 @@ public class desafioDiaSemana {
         }
         entrada.close();*/
 
-        //RESPOSTA 02 DO PROFESSOR
+        //RESPOSTA 02 DO PROFESSOR || ANSWER 02
 
         Scanner entrada = new Scanner(System.in);
 
